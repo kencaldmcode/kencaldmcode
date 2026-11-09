@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**kencaldmcode/kencaldmcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: **Estudiante de Tecnología**
+:pencil: **Diseño gráfico**
+:eyeglasses: **Gamer frustrado**
+:guitar: **Fan de las guitarras y pedales**
+:family: **¡Esposo y padre muy feliz!**
 
-Here are some ideas to get you started:
+### Vías de contacto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkevin-calderon-7233a031b)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/kencaldmcode/kencaldmcode)
+
